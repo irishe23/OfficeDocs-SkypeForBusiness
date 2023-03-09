@@ -44,7 +44,7 @@ The Teams Meeting add-in is automatically installed for users who have Microsoft
 > - If users do not see the Teams Meeting add-in, instruct them to close Outlook and Teams, then restart the Teams client first, then sign in to Teams, and then restart the Outlook client, in that specific order.
 > - If you are using an Office Outlook installation from the Microsoft Store, the Teams Meeting add-in isn't supported. Users who require this add-in are advised to install Click-to-Run version of Office, as outlined in [Office on Windows 10 in S mode](https://support.office.com/article/faq-office-on-windows-10-in-s-mode-717193b5-ff9f-4388-84c0-277ddf07fe3f) article.
 > - [Webview2](/microsoft-edge/webview2/concepts/distribution) and .Net 4.8 installation is required to avoid a degraded experience with the Teams Meeting add-in.
-
+> -
 ## Teams Meeting add-in in Outlook for Mac
 
 The Teams Meeting button in Outlook for Mac will appear in the Outlook for Mac ribbon if Outlook is running production build 16.24.414.0 and later and is activated with a Microsoft 365 or Office 365 client subscription.
